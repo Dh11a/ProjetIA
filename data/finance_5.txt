@@ -1,0 +1,149 @@
+Smart Contracts on Blockchain: Definition, Functionality, and Applications
+
+The Evolution of Smart Contracts
+
+Smart Contracts on Blockchain: Definition, Functionality, and Applications
+
+Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed.
+
+Erika Rasure is globally-recognized as a leading consumer economics subject matter expert, researcher, and educator. She is a financial therapist and transformational coach, with a special interest in helping women learn how to invest.
+
+Suzanne is a content marketer, writer, and fact-checker. She holds a Bachelor of Science in Finance degree from Bridgewater State University and helps develop content strategies.
+
+What Is Ethereum and How Does It Work?
+
+Ethereum Explained: Blockchain, Smart Contracts, and Its Future
+
+What Is Ether (ETH), the Cryptocurrency of Ethereum Apps?
+
+What Ethereum 2.0 Means For Mining Coins
+
+What Are ERC-20 Tokens on the Ethereum Network?
+
+Understanding Spot Ethereum ETFs: A Comprehensive Guide
+
+Decentralized Applications (dApps): Definition, Uses, Pros and Cons
+
+What Are Smart Contracts on the Blockchain and How They Work
+
+What Is the Ethereum Shanghai Upgrade?
+
+Gas (Ethereum): How Gas Fees Work on the Ethereum Blockchain
+
+A smart contract is a self-executing program that automates the actions required in a blockchain transaction. Once done, these transactions are traceable and cannot be undone. The best way to envision a smart contract is to think of a vending machine—when you insert the correct amount of money and push an item's button, the program (the smart contract) activates the machine to dispense your chosen item.
+
+Smart contracts allow for secure transactions and agreements between anonymous parties without needing a central authority or legal system.
+
+While blockchain technology has come to be thought of primarily as the foundation for Bitcoin​, it has evolved far beyond underpinning a virtual currency.
+
+Smart contracts are self-executing programs on the blockchain that automatically carry out transactions when specific conditions are met, eliminating the need for a central authority or intermediary.Originally proposed by Nick Szabo in 1994, smart contracts have become crucial for various applications, including real estate, trading, and supply chain management. Smart contracts streamline processes by automatically executing agreements between parties, but their connection to real-world actions—such as physical goods delivery—remains under development.The primary advantage of smart contracts is the reduction of third-party involvement, though this technology also faces challenges and limitations that need addressing.
+
+Get personalized, AI-powered answers built on 27+ years of trusted expertise.
+
+The Evolution of Smart Contracts
+
+Smart contracts were first proposed in 1994 by Nick Szabo, an American computer scientist who conceptualized a virtual currency called "Bit Gold" in 1998, 10 years before Bitcoin was introduced. Szabo is often rumored to be the real Satoshi Nakamoto, the anonymous Bitcoin inventor, which he has denied.
+
+Szabo defined smart contracts as computerized transaction protocols that execute the terms of a contract. He wanted to extend the functionality of electronic transaction methods, such as POS (points of sale), to the digital realm.
+
+Szabo's paper also suggested contracts for synthetic assets, like combining derivatives and bonds. Szabo wrote, "These new securities are formed by combining securities (such as bonds) and derivatives (options and futures) in a wide variety of ways. Very complex term structures for payments...can now be built into standardized contracts and traded with low transaction costs, due to computerized analysis of these complex term structures."
+
+Smart contracts don't include legal language or the actual terms of an agreement. They are scripts that contain functions, module imports, and other programming that automate the actions between two parties.
+
+Several of Szabo's predictions came true even before the rise of blockchain technology. For example, derivatives trading is now mostly conducted through computer networks using complex term structures.
+
+Practical Applications of Smart Contracts
+
+Because smart contracts execute agreements, they can be used for many different purposes. One of the simplest uses is ensuring transactions between two parties occur, such as the purchase and delivery of goods. For example, a manufacturer needing raw materials can set up payments using smart contracts, and the supplier can set up shipments. Then, depending on the agreement between the two businesses, the funds could be transferred automatically to the supplier upon shipment or delivery.
+
+It's important to understand that the connections between blockchain transactions and real-world transfers are still being developed. For example, if you buy an item with ether from a retailer using a blockchain tied to Ethereum, it still needs human packing and shipping. In this case, a smart contract would likely transfer your cryptocurrency to the retailer and initiate another script that notifies the shipping department of a sale.
+
+Real estate transactions, stock and commodity trading, lending, corporate governance, supply chain, dispute resolution, and healthcare are only a few examples where smart contracts are theorized to have use.
+
+Advantages and Challenges of Smart Contracts
+
+The main benefit of smart contracts, like blockchain, is that they eliminate the need for third parties. Other benefits of this technology are:
+
+Efficiency: They speed up contract executionAccuracy: There can be no human error introducedImmutability: The programming cannot be altered
+
+Some of the downfalls of smart contracts are:
+
+Permanent: They cannot be changed if there are mistakesHuman factor: They rely on the programmer to ensure the code is programmed properly to execute the intended actionsLoopholes: There may be loopholes in the coding, allowing for contracts to be executed in bad faith
+
+What Is an Example of a Smart Contract?
+
+A basic example of a smart contract is a sale transaction between a consumer and a business. The smart contract could execute the customer's payment and initiate the business's shipment process.
+
+What Is the Point of a Smart Contract?
+
+Smart contracts aim to eliminate the need for a trusted third party to facilitate actions between untrusting parties.
+
+What Are the Four Major Parts of a Smart Contract?
+
+It depends on the blockchain and how it is programmed. Generally speaking, smart contracts have state variables (data), functions (what can be done), events (messages in and out), and modifiers (special rules for specific users). Some may have additional elements depending on what they are designed to do.
+
+Smart contracts are code written into a blockchain that executes the actions two parties agree to outside the chain. By automating these actions, the need for an intermediary or trust between the parties is removed.
+
+The comments, opinions, and analyses expressed on Investopedia are for informational purposes online. Read our warranty and liability disclaimer for more info.
+
+Get personalized, AI-powered answers built on 27+ years of trusted expertise.
+
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our
+
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+What Is Ethereum and How Does It Work?
+
+Ethereum Explained: Blockchain, Smart Contracts, and Its Future
+
+What Is Ether (ETH), the Cryptocurrency of Ethereum Apps?
+
+What Ethereum 2.0 Means For Mining Coins
+
+What Are ERC-20 Tokens on the Ethereum Network?
+
+Understanding Spot Ethereum ETFs: A Comprehensive Guide
+
+Decentralized Applications (dApps): Definition, Uses, Pros and Cons
+
+What Are Smart Contracts on the Blockchain and How They Work
+
+What Is the Ethereum Shanghai Upgrade?
+
+Gas (Ethereum): How Gas Fees Work on the Ethereum Blockchain
+
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+Understanding Consensus Mechanisms: Blockchain and Crypto Basics
+
+Hyperledger: Open-Source Blockchain Framework and Standards
+
+Hard Fork: What It Is in Blockchain, How It Works, and Why It Happens
+
+Best Crypto Exchanges and Apps for May 2026
+
+Best Ethereum Wallets for May 2026
+
+Cardano (ADA): Comprehensive Guide and Bitcoin Differences
+
+Stablecoins: Definition, How They Work, and Types
+
+Understanding Shitcoin: What Are Valueless Cryptocurrencies?
+
+What Is Tezos (XTZ)? A Guide to This Decentralized Blockchain
+
+Mastering Cryptographic Hash Functions for Data Security
+
+How the Bitcoin Blockchain Records Transactions
+
+Create Your Cryptocurrency: A Complete Step-by-Step Guide
+
+What Is a Cryptocurrency Block Header? Definition and Function
+
+Is Ethereum Eco-Friendly? Exploring the Impact of the Merge
+
+Cryptocurrency Exchanges: What They Are and How To Choose
+
+Understanding Hyperledger Fabric: A Guide to Blockchain Frameworks
+
+is part of the People Inc. publishing family.

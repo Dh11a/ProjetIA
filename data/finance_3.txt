@@ -1,0 +1,243 @@
+Cryptocurrency Explained With Pros and Cons for Investment
+
+How Many People Still Rely on Pensions in Retirement? More Than You May Think
+
+How Much Do Americans Have in the Bank? A Look at Median Balances by Age and More
+
+Retirement Planning for People Without Kids: Preparing for Long-Term Care and Estate Decisions
+
+You Just Came Into Some Cash: Answer These Two Questions Before You Invest It Or Pay Off Debt
+
+Cryptocurrency Explained With Pros and Cons for Investment
+
+Learn what you need to know before you invest in a virtual currency
+
+Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed.
+
+Cierra Murry is an expert in banking, credit cards, investing, loans, mortgages, and real estate. She is a banking consultant, loan signing agent, and arbitrator with more than 15 years of experience in financial analysis, underwriting, loan documentation, loan review, banking compliance, and credit risk management.
+
+Betsy began her career in international finance and it has since grown into a comprehensive approach to journalism as she's been able to tap into that experience along with her time spent in academia and professional services.
+
+Cryptocurrencies are digital assets created using blockchain technology.
+
+A cryptocurrency is a digital asset based on a blockchain network that is distributed across a large number of computers.
+
+The blockchain's decentralized structure allows cryptocurrencies to exist outside the direct control of governments and central authorities.
+
+Government agencies, such as the SEC, routinely regulate cryptocurrency, setting laws and regulations for crypto exchanges and online brokerage firms to follow.
+
+Some experts believe blockchain and related technologies will disrupt many industries, including finance and law.
+
+Cryptocurrencies offer cheaper and faster money transfers and the potential for capital gains.
+
+The disadvantages of cryptocurrencies include their price volatility, high energy consumption for mining activities, and use in criminal activities.
+
+Get personalized, AI-powered answers built on 27+ years of trusted expertise.
+
+A cryptocurrency is a digital or virtual currency secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. Cryptocurrencies exist on decentralized networks that utilize blockchain technology, a distributed ledger secured by a network of computers.
+
+Cryptocurrencies generally aren't issued by any central or governing authority. However, the U.S. Securities and Exchange Commission (SEC) sets rules that crypto exchanges, online brokerage firms, and other institutions that offer cryptocurrency must follow.
+
+Keep your passkeys safe. Unlike fiat money, funds held in a cryptocurrency wallet aren't insured by the government.
+
+Cryptocurrencies are digital currencies underpinned by cryptographic systems. They enable secure online payments without the use of third-party intermediaries. "Crypto" refers to the various encryption algorithms and cryptographic techniques that safeguard these entries, such as elliptic curve encryption, public-private key pairs, and hashing functions.
+
+Blockchain technology is essentially a set of connected blocks of information on an online ledger. Each block contains a set of transactions that have been verified by validators on a network. It's central to Bitcoin and other cryptocurrencies' appeal and functionality. A blockchain
+
+This network-wide validation makes it nearly impossible to forge transactions. The contents of the online ledger must be agreed upon by a network of individual nodes, or computers that maintain the ledger.
+
+Experts say that blockchain technology can serve multiple industries, supply chains, and processes, such as online voting and crowdfunding. For example:
+
+Financial institutions like JPMorgan (JPM) are using blockchain technology to reduce transaction costs by streamlining payment processing.
+
+Payment processors Visa (V) and Mastercard (MA) implemented blockchains and multi-token networks to make settlements easier.
+
+Many cryptocurrencies were created to facilitate work done on the blockchain they are built on. For example, Ethereum's digital coin, Ether (ETH), is used to pay for validating transactions and creating new blocks. In September 2022, Ethereum switched to a proof-of-stake system. Ether inherited an additional duty as the blockchain's staking mechanism. The XRP Ledger's native cryptocurrency, XRP, facilitates transfers between different geographies.
+
+Because so many cryptocurrencies are on the market, it's important to understand the different types. Knowing whether the coin you're looking at has a purpose can help you decide whether it is worth investing in. A cryptocurrency with a purpose is likely to be less risky than one that doesn't have a use.
+
+When you hear about cryptocurrency types, you often hear the coin's name. However, coin names differ from coin types. Here are some of the types you'll find, with some of the names of tokens in that category:
+
+Serve specific functions on their respective blockchains. XRP and ETH are two examples.
+
+Designed to be used as a payment method. Bitcoin is the most well-known.
+
+Represent voting or other rights on a blockchain, such as Uniswap.
+
+Support decentralized applications, also known as dApps, which are built on a blockchain, such as Solana.
+
+Represent ownership of an asset, such as a tokenized stock (value transferred to the blockchain). MS Token is one example. You can gain partial ownership of the Millennium Sapphire if you find one for sale.
+
+If you find a cryptocurrency that doesn't fall into one of these categories, you've likely discovered a new category or something that needs further investigation to ensure its legitimacy.
+
+If you want to use cryptocurrency to buy products and services, you will need to visit a cryptocurrency exchange. These let you buy or sell cryptocurrencies from other users at the current market price, similar to a stock. After buying the coins, you will need to transfer them to a crypto wallet or use a third-party service like Coinbase to store your coins.
+
+If you only want to invest in crypto, you may be able to do so through your online brokerage. For example, Robinhood, one of our top brokers for cryptocurrency trading, lets users invest in Bitcoin and other cryptocurrencies. Several crypto ETFs, such as Spot Bitcoin and Ethereum ETFs, also give you exposure to the crypto without having to maintain their wallets. Investors may choose to hold Bitcoin ETF shares or Ether spot shares, which the SEC approved.
+
+Fiat currencies derive their authority from the government or monetary authorities. For example, the U.S. dollar is recognized and issued by the government as the official currency of the U.S. and is "legal tender."
+
+However, cryptocurrencies aren't issued by government entities. Therefore, it has been difficult to make a case for their legal status in different financial jurisdictions throughout the world. It doesn't help matters that crypto has primarily functioned outside most existing financial infrastructure. If you're interested in cryptocurrency, check the national and local laws of your country of residence. While it may be legal in one jurisdiction, it may not be legal in another.
+
+The legal status of cryptocurrencies and how digital assets are used, traded, and transferred continues to evolve. While cryptocurrency is legal in the U.S., multiple agencies enforce its regulation. For instance:
+
+The SEC oversees virtual assets that may be deemed securities
+
+The Commodity Futures Trading Commission (CFTC) oversees crypto derivatives and commodities-like assets
+
+The Financial Action Task Force Travel Rule set out international standards, requiring cross-border cooperation among crypto service providers to collect and share sender and receiver details for transactions to prevent money laundering, just like traditional banks
+
+In 2026, the SEC clarified how federal laws apply to crypto, saying how a digital currency can become a security depending on how it's traded. It also clarified how activities, such as mining and staking, may fall within or outside securities laws in certain cases.
+
+Although cryptocurrencies are considered money, the IRS treats them like financial assets or property for tax purposes. Just like other investments, if you have capital gains from selling or trading crypto, the government wants a piece of the profits. How digital assets are taxed, either as capital gains or ordinary income, depends on how long you held them for and how you used them.
+
+Japan's government reclassified cryptocurrencies as financial instruments in April 2026. This makes digital assets akin to stocks and bonds. The new bill, approved by the country's cabinet, bans insider crypto trading, requires sellers to be registered, lets venture capital firms hold crypto, and lowers the capital gains on crypto transactions.
+
+China has banned crypto exchanges, transactions, and mining. In 2026, the country's central bank said it was monitoring tokens issued offshore that are backed by onshore assets. Despite this, there are signs that China may be close to setting up regulations for asset tokenization.
+
+Cryptocurrencies aren't regulated in India, but the country does monitor exchanges. The government has also indicated that digital assets aren't considered legal tender.
+
+Cryptocurrencies are legal and regulated in the European Union (EU) under the Markets in Crypto-Assets (MiCA) framework. As such, assets, issuers, and service providers (like wallets and exchanges) must follow the same set of rules. Companies must follow transparency and disclosure rules while providing safeguards against abuse and crime.
+
+Is Cryptocurrency a Safe Investment?
+
+Cryptocurrencies have attracted a reputation as unstable investments due to high investor losses from scams, hacks, bugs, and volatility. Although the underlying cryptography and blockchain are generally secure, the technical complexity of using and storing crypto assets can be a significant hazard to new users.
+
+In addition to the market risks associated with speculative assets, cryptocurrency investors should be aware of the following risks:
+
+User risk: Unlike traditional finance, you can't reverse or cancel a cryptocurrency transaction after it has already been sent. According to Ledger, a well-known crypto wallet, analysts estimate that about 11 % to 18% of bitcoins are lost for various reasons.Regulatory risks: The regulatory status of some cryptocurrencies is still unclear in many areas, with some governments seeking to regulate them as securities, currencies, or both. A sudden crackdown could make it challenging to sell crypto or cause a market-wide price drop.Counterparty risks: Many investors and merchants rely on exchanges or other custodians to store their cryptocurrency. Theft or loss by one of these third parties could result in losing one's entire investment.Management risks: Due to the lack of coherent regulations, there are few protections against deceptive or unethical management practices. Many investors have lost large sums to management teams that failed to deliver a product.Programming risks: Many investment and lending platforms use automated smart contracts to control the movement of user deposits. An investor using one of these platforms assumes the risk that a bug or exploit in these programs could cause them to lose their investment.Market Manipulation: Market manipulation remains a substantial problem for cryptocurrency investors, with influential people, organizations, and exchanges promoting their favored tokens.
+
+Despite these risks, cryptocurrencies have experienced a significant price surge, with the total market capitalization rising to approximately $2.55 trillion as of April 30, 2026. Despite the asset's speculative nature, some have created substantial fortunes by taking on the risk of investing in early-stage cryptocurrencies.
+
+Advantages and Disadvantages of Cryptocurrency
+
+Cryptocurrencies were introduced with the intent to revolutionize financial infrastructure. As with every revolution, however, there are tradeoffs involved. At the current stage of crypto development, there are many differences between the theoretical ideal of a decentralized system with cryptocurrencies and its practical implementation.
+
+Removes single points of failure
+
+Easier to transfer funds between parties
+
+Can be used to generate returns
+
+Pseudonymity allows for criminal uses
+
+Expensive to participate in some networks and earn
+
+Cryptocurrencies represent a new, decentralized paradigm for money. Centralized intermediaries, such as banks and monetary institutions, aren't necessary to enforce trust and police transactions between two parties. Thus, a system with cryptocurrencies eliminates a single point of failure, such as a large financial institution setting off global crises, just like the one triggered in 2008 by the failure of large investment banks in the U.S.
+
+Cryptocurrencies promise to make transferring funds directly between two parties easier without needing a third party like a bank or a credit card company. Such decentralized transfers are secured by the use of public keys and private keys and different forms of incentive systems, such as proof of work or proof of stake.
+
+Because they don't use third-party intermediaries, cryptocurrency transfers between two transacting parties can be faster than standard money transfers. Flash loans in decentralized finance are one example of such decentralized transfers. These loans, which are processed without requiring collateral, can be executed within seconds and are mostly used in trading.
+
+The remittance economy is testing one of cryptocurrency's most prominent use cases. Cryptocurrencies like Bitcoin serve as intermediate currencies to streamline money transfers across borders. Thus, a fiat currency is converted into Bitcoin (or another cryptocurrency), transferred across borders, and subsequently converted back into the destination fiat currency without third-party involvement.
+
+Though many claim crypto to be an anonymous form of transaction, cryptocurrencies are pseudonymous. They leave a digital trail that agencies like the Federal Bureau of Investigation (FBI) can follow. This opens up the possibility for governments, authorities, and others to track financial transactions.
+
+Cryptocurrencies have become a popular tool for criminals to engage in nefarious activities, including money laundering and illicit purchases. The case of Dread Pirate Roberts, who ran a marketplace to sell drugs on the dark web, is already well known. Cryptocurrencies have also become a favorite of hackers who use them for ransomware activities.
+
+In theory, cryptocurrencies are designed to be decentralized, with their wealth distributed among many parties on a blockchain. Ownership is becoming more concentrated, as witnessed by companies such as Strategy purchasing and holding them for price appreciation and investment fund managers buying them to hold in the funds they manage.
+
+One of the conceits of cryptocurrencies is that anyone can mine them using a computer with an Internet connection. However, mining popular cryptocurrencies requires considerable energy, sometimes with daily energy use for mining only exceeding that of a household. The high energy costs and the unpredictability of mining have concentrated mining among large firms seeking to profit from the activity.
+
+Though cryptocurrency blockchains are highly secure, off-chain crypto-related key storage repositories, such as exchanges and wallets, can be hacked. Many cryptocurrency exchanges and wallets have been hacked over the years, sometimes resulting in the theft of millions of dollars in coins.
+
+Cryptocurrencies traded in public markets suffer from price volatility, so investments require accurate price monitoring. For example, Bitcoin's value has experienced rapid surges and crashes, climbing to nearly $65,000 in November 2021 before dropping to just over $20,000 a year and a half later. Bitcoin prices roared back by mid-2024 and reached a high of more than $124,000 by October 2025. As a result of this vast range of volatility, many people consider cryptocurrencies a speculative bubble.
+
+Crypto can be a good investment for someone who enjoys speculating and can financially tolerate losing everything invested. However, it is not a wise investment for someone seeking to grow their retirement portfolio or for placing savings into it for growth.
+
+Which Crypto Is Best to Invest in?
+
+It depends on your financial circumstances, market outlook, risk tolerance, and goals. Crypto investing is generally best suited for speculators or those who can afford to incur losses. Including cryptocurrency as part of a portfolio is something that should be discussed with a financial advisor familiar with crypto.
+
+How Does Crypto Make You Money?
+
+There are several ways cryptocurrency can make money for you. Decentralized finance applications let you loan your crypto with interest; you can stake a compatible one on a blockchain or at certain exchanges for rewards, or you can hold on to it and hope its market value increases. None of these methods is guaranteed to make money, but many people have benefited from them.
+
+Cryptocurrencies are digital assets that are secured by cryptography. As a relatively new technology, they are highly speculative, and it is important to understand the risks involved before investing.
+
+The comments, opinions, and analyses expressed on Investopedia are for informational purposes online. Read our warranty and liability disclaimer for more info.
+
+Get personalized, AI-powered answers built on 27+ years of trusted expertise.
+
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our
+
+U.S. Securities and Exchange Commission. "Crypto Task Force."
+
+Satoshi Nakamoto. "Bitcoin: A Peer-to-Peer Electronic Cash System," October 31, 2008, pp. 3-4.
+
+J.P. Morgan. "Introducing Kinexys to J.P. Morgan."
+
+Visa. "Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement."
+
+Mastercard. "Mastercard Announces Multi Token Network (MTN) to Scale and Secure Blockchain Technology."
+
+The Ethereum Foundation. "The Merge."
+
+Ripple. "XRP Ledger: Built for Business."
+
+U.S. Congress. "SEC Approves Bitcoin Exchange-Traded Products (ETPs)."
+
+Atlantic Council. "Cryptocurrency Regulation Tracker."
+
+U.S. Securities and Exchange Commission. "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets."
+
+Internal Revenue Service. "Digital Assets."
+
+Internal Revenue Service. "Frequently Asked Questions on Virtual Currency Transactions."
+
+Yahoo! Finance. "Japan Crypto Revolution Inbound? Tokyo Pass New Law Equalising Crypto and Stocks."
+
+Reuters. "China Steps up Crypto Crackdown, Will Vet Real-World Asset Tokens."
+
+Freeman Law. "India and Cryptocurrency."
+
+European Council of the European Union. "Crypto-Assets: How the EU Is Regulating Markets."
+
+Ledger. "How Many Bitcoin Are Lost? | Ledger."
+
+CoinMarketCap. "Today's Cryptocurrency Prices by Market Cap."
+
+Coinbase. “What Is "Proof of Work" or "Proof of Stake"?”
+
+Ars Technica. "Sunk: How Ross Ulbricht Ended Up in Prison for Life."
+
+National Public Radio. "How Bitcoin Has Fueled Ransomware Attacks."
+
+Center for Strategic & International Studies. "The ByBit Heist and the Future of U.S. Crypto Regulation."
+
+CoinMarketCap. "Bitcoin To USD Chart."
+
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+Best Crypto Exchanges and Apps for May 2026
+
+Best Cryptocurrency Trading Courses for May 2026
+
+Best Bitcoin Debit Cards for May 2026
+
+Best Bitcoin IRA Companies for May 2026
+
+Best Bitcoin Wallets for May 2026
+
+Best Crypto Software Wallets for May 2026
+
+Best Ethereum Wallets for May 2026
+
+Understanding Consensus Mechanisms: Blockchain and Crypto Basics
+
+How Does Bitcoin Mining Work? A Beginner's Guide
+
+Understanding Shitcoin: What Are Valueless Cryptocurrencies?
+
+Discover the Richest Bitcoin Billionaires in Cryptocurrency
+
+Cardano (ADA): Comprehensive Guide and Bitcoin Differences
+
+Mastering Cryptographic Hash Functions for Data Security
+
+Stablecoins: Definition, How They Work, and Types
+
+What Is Bitcoin Mining? How to Get Started
+
+is part of the People Inc. publishing family.
